@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "nasreirma/android_vendor_Infinix_X601-LTE",
+    "target_path": "vendor/Infinix/X601-LTE",
+    "branch": "LineageOS-14.1"
+  }
+] 

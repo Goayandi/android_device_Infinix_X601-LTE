@@ -1,0 +1,7 @@
+type mmc3524xd_exec, exec_type, file_type;
+type mmc3524xd, domain, domain_deprecated;
+
+init_daemon_domain(mmc3524xd)
+
+allow mmc3524xd msensor_device:chr_file rw_file_perms;
+allow mmc3524xd gsensor_device:chr_file rw_file_perms;
