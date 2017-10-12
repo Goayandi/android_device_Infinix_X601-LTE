@@ -8,7 +8,7 @@ This branch is device for building of the LineageOS 14.1 and Android Nougat 7.1.
 # About Device
 
 Infinix NOTE 3 Pro(X601-LTE)
-![Infinix NOTE 3 Pro](https://ma.jumia.is/CY2UEzDhIcSsefdhfmYYG8u6X1Y=/fit-in/680x680/filters:fill(white)/product/85/961471/1.jpg "Infinix NOTE 3 Pro")
+![Infinix NOTE 3 Pro](https://mobilesgate.com/wp-content/uploads/2017/08/infinix-note-3-pro-x601-16gb-rom-3gb-ram-champagne-gold-1480040750-7659697-84a602ea7c6af6f3b1c52adb82a8f03c.jpg "Infinix NOTE 3 Pro")
 
 ### Specifications
 
