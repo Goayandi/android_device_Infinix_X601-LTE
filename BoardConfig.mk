@@ -15,13 +15,13 @@
 #
 
 # Device path
-LOCAL_PATH := device/Infinix/X601-LTE
+LOCAL_PATH := device/Infinix/X601_LTE
 
 # Device board elements
 include $(LOCAL_PATH)/board/*.mk
 
 # Device vendor board
--include vendor/Infinix/X601-LTE/BoardConfigVendor.mk
+-include vendor/Infinix/X601_LTE/BoardConfigVendor.mk
 
 #######################################################################
 

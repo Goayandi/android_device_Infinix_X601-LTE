@@ -18,7 +18,7 @@
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 # Inherit device configuration
-$(call inherit-product, $(LOCAL_PATH)/device_X601-LTE.mk)
+$(call inherit-product, $(LOCAL_PATH)/device_X601_LTE.mk)
 
 # Device display
 TARGET_SCREEN_HEIGHT := 1920

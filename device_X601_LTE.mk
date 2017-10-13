@@ -39,7 +39,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 
 # Vendor product configurations
-$(call inherit-product-if-exists, vendor/Infinix/X601-LTE/X601-LTE-vendor.mk)
+$(call inherit-product-if-exists, vendor/Infinix/X601_LTE/X601_LTE-vendor.mk)
 
 ADDITIONAL_DEFAULT_PROPERTIES += \
 	ro.secure=0 \

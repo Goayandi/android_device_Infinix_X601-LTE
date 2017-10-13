@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VENDOR=Infinix
-DEVICE=X601-LTE
+DEVICE=X601_LTE
 
 BASE=../../../vendor/$VENDOR/$DEVICE/proprietary
 
