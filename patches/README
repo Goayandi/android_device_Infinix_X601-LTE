@@ -1,5 +1,5 @@
 This is patch directory
 
 cd WORKING_DIR
-sh device/oukitel/K6000Pro/patches/install.sh
-sh device/oukitel/K6000Pro/patches/uninstall.sh
+sh device/Infinix/X601_LTE/patches/install.sh
+sh device/Infinix/X601_LTE/patches/uninstall.sh
