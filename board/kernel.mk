@@ -17,4 +17,4 @@ MTK_K64_SUPPORT := yes
 #BOARD_KERNEL_IMAGE_NAME := Image.gz-dtb
 #MTK_APPENDED_DTB_SUPPORT := yes
 #TARGET_PREBUILT_KERNEL := device/oukitel/K6000Pro/kernel
-TARGET_PREBUILT_BOOT := device/oukitel/K6000Pro/boot.img
+TARGET_PREBUILT_BOOT := device/Infinix/X601-LTE/boot.img
